@@ -19,12 +19,7 @@ namespace Lesson1_Task1
         /// Получает или задает вводимое число
         /// </summary>
         public int Number { get; set; }
-        
-        /// <summary>
-        /// Получает или задает ожидаемое значение
-        /// </summary>
-        public decimal ExpectedValue { get; set; }
-        
+                
         /// <summary>
         /// Получает или задает ожидамое текстовое значение
         /// </summary>

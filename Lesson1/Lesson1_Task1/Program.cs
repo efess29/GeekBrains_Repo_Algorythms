@@ -121,7 +121,6 @@ namespace Lesson1_Task1
                 }
 
                 Console.WriteLine();
-                Console.ReadKey();
             
                 var test1 = new Checker[3];
                 
